@@ -1,0 +1,138 @@
+{
+    "Header": {
+
+        "title": "8x8 Chess Acedemy Pune",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": [
+            "Over a decade year of experience chess teacher,",
+            "Certified coach by World chess association(FIDE instructor).",
+            "Coaching by international rated player.",
+            "Provides training to individuals, groups as well as various schools, colleges & universities from basic to advance level."
+        ],
+
+        "Why": [
+            "Well qualified coach(FIDE instructor).",
+            "Well structured syllabus for each level.",
+            "Online as well as offline coaching.",
+            "Decade years of experience in coaching for rating tournaments."
+        ],
+        "Why2": [
+            "Good results.",
+            "Individual attention.",
+            "Multiples Practice sessions every weekend",
+            "Personal guidance to achieve international rating."
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-laptop",
+            "name": "Online/Offline coaching",
+            "text": "daily muiltiple online batches over Skype and Zoom."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Group coaching",
+            "text": "Online and offline group coaching, everyday multiple batches (limited students)."
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Personal coaching",
+            "text": "Online and offline individual coaching (Special guidance to improve chess rating)."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Chess camps",
+            "text": "Regular chess camps for discussing latest trending topics."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Conducting Tournaments",
+            "text": "On every weekend Real/Practice tournaments and special sessions on rating tournaments"
+        },
+        {
+            "icon": "fa fa-building",
+            "name": "Coaching in Scools/Colleges",
+            "text": "We also provide chess coaching in various colleges and schools."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/00.png",
+            "text": "\"Our daughter is taking online chess lessons from Londhe sir for about 9 months now. She loves her chess lessons and always very eager to start them. Lessons are very organized and engaging. Even though we live in the US, Londhe sir accommodates the time difference and ensures lessons are not missed. We really appreciate his teaching.\"",
+            "name": "Manish and Pallavi Kulkarni (USA)"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Nanded city, Pune, Maharashtra, India",
+        "phone": "+91 9272710567 / +91 7620956726",
+        "email": "vishalchesse4@gmail.com / 8x8chessacedemypune@gmail.com",
+        "facebook": "https://www.facebook.com/8x8-Chess-Academy-pune-106339171526709",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com",
+        "whatsapp": "https://wa.me/919272710567?text=I%20want%20to%20know%20more%20about%20Chess%20classes."
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Beginner",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Basic",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Intermidiate",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Advanced(Rated player)",
+            "text": ""
+        }
+    ],
+    "Syllabus":[{
+        "icon": "fa fa-comments-o",
+        "title": "Beginner",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-bullhorn",
+        "title": "Basic",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-group",
+        "title": "Intermidiate",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-magic",
+        "title": "Advanced(Rated player)",
+        "text": ""
+    }]
+}
