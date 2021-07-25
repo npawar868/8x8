@@ -433,9 +433,12 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-	padding: 100px 0 60px 0;
+	padding: 0px 0 60px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: rgba(255,255,255,.75);
+}
+#gallery{
+	padding: 100px 0;
 }
 #contact .section-title {
 	margin-bottom: 40px;

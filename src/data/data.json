@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "8x8 Chess Acedemy Pune",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "paragraph": "Best place to learn and master in Chess."
 
     },
     "About": {
@@ -42,7 +42,7 @@
             "text": "Online and offline individual coaching (Special guidance to improve chess rating)."
         },
         {
-            "icon": "fa fa-language",
+            "icon": "fa fa-users",
             "name": "Chess camps",
             "text": "Regular chess camps for discussing latest trending topics."
         },
